@@ -99,7 +99,6 @@
   margin-bottom: 104px;
   flex-direction: column;
   justify-content: flex-start;
-  background-color: #f1d8d8;
 }
 .home-pipelines-header {
   width: 100%;
@@ -139,4 +138,10 @@
   color: rgb(255, 255, 255);
   font-size: 16px;
   padding-left: var(--dl-space-space-twounits);
+}
+.home-image {
+  width: auto;
+  opacity: 0.5;
+  align-self: center;
+  object-fit: cover;
 }

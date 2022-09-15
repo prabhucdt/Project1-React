@@ -34,6 +34,12 @@ const Home = (props) => {
           <span className="home-text08">Start Time</span>
           <span className="home-text09">End Time</span>
         </div>
+        <img
+          src="/playground_assets/cb-800h.jpg"
+          alt="image"
+          loading="eager"
+          className="home-image"
+        />
       </div>
     </div>
   )
